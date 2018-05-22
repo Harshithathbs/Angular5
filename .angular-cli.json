@@ -5,6 +5,8 @@
   },
   "apps": [
     {
+      "name": "app-production",
+      "baseHref": "/ng-test-deploy",    
       "root": "src",
       "outDir": "dist",
       "assets": [
